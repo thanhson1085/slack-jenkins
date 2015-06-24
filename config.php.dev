@@ -1,0 +1,4 @@
+<?php
+return array(
+        'jenkins_url' => 'http://jenkins.example.com'
+);
